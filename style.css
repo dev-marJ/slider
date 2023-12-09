@@ -25,7 +25,7 @@ body {
   height: 100dvh;
   padding-right: 2em;
   padding-left: 2em;
-  background-image: url(images/pattern-curve.svg);
+  background-image: url(./images/pattern-curve.svg);
   background-repeat: no-repeat;
   background-position: bottom left;
   background-size: 75%;
@@ -36,7 +36,7 @@ body {
 }
 
 .img-btn-container {
-  background-image: url(images/pattern-bg.svg);
+  background-image: url(./images/pattern-bg.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -88,7 +88,7 @@ button:hover {
 }
 
 .testimonial-text-container {
-  background-image: url(images/pattern-quotes.svg);
+  background-image: url(./images/pattern-quotes.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-position: top;
@@ -204,7 +204,7 @@ button:hover {
   }
 
   body {
-    background-image: url(images/pattern-curve.svg);
+    background-image: url(./images/pattern-curve.svg);
     background-repeat: no-repeat;
     background-position: bottom left;
     background-size: 40%;
